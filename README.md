@@ -58,4 +58,6 @@ flowchart TD
     C -->|Returns Places Data| D[Assistant Processing]
     D --> E[User Output: Name, Address, Rating]
 
-https://multimodal-geminiai.blogspot.com/2025/04/multimodal-ai-capability.html
+
+
+[![blogspot: blog](https://multimodal-geminiai.blogspot.com/2025/04/multimodal-ai-capability.html)](blogspot)
