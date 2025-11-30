@@ -38,7 +38,7 @@ Google Places API (New)
 
 
 
-
+[![Agent Tool blog: blog]((https://multimodal-geminiai.blogspot.com/2025/11/google-kaggle-ai-agents-intensive.html))](https://multimodal-geminiai.blogspot.com/2025/11/google-kaggle-ai-agents-intensive.html)
 
 
 
@@ -59,5 +59,3 @@ flowchart TD
     B -->|Returns Lat/Lng| C[Places API: searchNearby]
     C -->|Returns Places Data| D[Assistant Processing]
     D --> E[User Output: Name, Address, Rating]
-
-
