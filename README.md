@@ -4,7 +4,7 @@
 [![Google Maps API](https://img.shields.io/badge/Google%20Maps-API-green.svg)](https://developers.google.com/maps)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![blogspot: blog](https://multimodal-geminiai.blogspot.com/2025/04/multimodal-ai-capability.html)](blogspot)
+[![Agent Tool blog: blog]((https://multimodal-geminiai.blogspot.com/2025/11/google-kaggle-ai-agents-intensive.html))](https://multimodal-geminiai.blogspot.com/2025/11/google-kaggle-ai-agents-intensive.html)
 
 A lightweight Python assistant that integrates with **Google Geocoding API** and **Google Places API (v1)** to provide geospatial intelligence.  
 It can geocode locations, search nearby places, and return structured results such as names, addresses, and ratings — perfect for AI agents, data pipelines, or location-aware applications.
