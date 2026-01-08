@@ -9,6 +9,10 @@
 A lightweight Python assistant that integrates with **Google Geocoding API** and **Google Places API (v1)** to provide geospatial intelligence.  
 It can geocode locations, search nearby places, and return structured results such as names, addresses, and ratings — perfect for AI agents, data pipelines, or location-aware applications.
 
+
+![Google Maps AI Agent](https://github.com/VijayaJothi24/Google-Kaggle-AI-Agents-Intensive-Project/blob/main/GOOGLEMAPS%20AI%20AGENT.jpeg)
+
+
 ---
 
 ## ✨ Features
